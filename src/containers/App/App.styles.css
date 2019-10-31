@@ -1,0 +1,28 @@
+.App {
+    height: 100%;
+    max-width: 840px;
+
+    margin: 0 auto;
+    padding: 16px;
+
+    overflow: hidden;
+
+    background-color: #eeeeee;
+}
+
+.App__header {
+    background: #e0e0e0;
+
+    margin: -16px -16px 16px;
+
+    overflow: hidden;
+}
+
+.App__title {
+    margin-top: 32px;
+    margin-bottom: 48px;
+
+    text-align: center;
+
+    font-weight: 400;
+}

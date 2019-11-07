@@ -7,6 +7,12 @@ The goal of this coding challenge is to have minimalistic search which focus on 
 * State management and data fetching are handled with Redux
 * Search renders search results in list on every search query change
 
+## Development
+
+For a quick start you can use CodeSandbox:
+
+[![Edit coding-challenge-search](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/truffls/coding-challenge-search/tree/master/)
+
 ## Available Scripts
 
 In the project directory, you can run:
